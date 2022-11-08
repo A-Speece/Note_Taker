@@ -41,6 +41,6 @@ testing has been done by entering text and title on the front end and seeing if 
 
 GitHub Username: A-Speece
 Email: anthonyspeece@gmail.com
-Link to the Heroku deployment:
+Link to the Heroku deployment: https://bootcamp-challenge-note-taker.herokuapp.com/
 
-![Screenshot1.png](./Develop/public/assets/images/Screenshot1.png)
+![Screenshot1.png](./public/assets/images/Screenshot1.png)
